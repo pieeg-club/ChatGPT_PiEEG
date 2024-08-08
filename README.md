@@ -9,6 +9,6 @@ https://pieeg.com/wp-admin/post.php
 for software details ask me here 
 https://pieeg.com/forum-pieeg-low-cost-brain-computer-interface/  
 
-youtube links is here
+youtube links is herehttps://youtu.be/LfGQPz5XnX4
 
 

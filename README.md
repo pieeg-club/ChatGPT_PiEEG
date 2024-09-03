@@ -12,3 +12,5 @@ https://pieeg.com/forum-pieeg-low-cost-brain-computer-interface/
 youtube links is here https://youtu.be/LfGQPz5XnX4  
 
 
+pip list  
+gpiod 1.5.4  
